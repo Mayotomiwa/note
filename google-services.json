@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1040009624343",
+    "project_id": "note-54c9a",
+    "storage_bucket": "note-54c9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040009624343:android:dced38e2026f63041d5552",
+        "android_client_info": {
+          "package_name": "com.mayotomiwa.note"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040009624343-4nqism5hel117rr625qceebugr2sf48q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-VDaUaCSauP13nXS968mxcIO9lyU2wFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040009624343-4nqism5hel117rr625qceebugr2sf48q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
